@@ -1,0 +1,1000 @@
+   28  clear
+   29  cd /tmp
+   30  curl -sS https://getcomposer.org/installer | php
+   31  sudo mv composer.phar /usr/local/bin/composer
+   32  cd /var/www/html
+   33  sudo chgrp -R www-data /var/www/html/your-project
+   34  sudo chgrp -R www-data /var/www/html
+   35  composer global require laravel/installer
+   36  php --ini
+   37  clear
+   38  php --ini
+   39  clear
+   40  composer global require laravel/installer
+   41  clear
+   42  sudo apt-get install php7.2-zip
+   43  clear
+   44  composer global require laravel/installer
+   45  laravel new starter
+   46  clear
+   47  laravel new blog
+   48  clear
+   49  export PATH="$PATH:$HOME/.config/composer/vendor/bin"
+   50  laravel new starter
+   51  clear
+   52  laravel new starter
+   53  clear
+   54  sudo laravel new starter
+   55  clear
+   56  laravel new starter
+   57  ls
+   58  cwd 
+   59  cwd /var/www/html
+   60  clear
+   61  The provided cwd "/var/www/html/starter" does not exist.  
+   62  clear
+   63  source ~/.bashrc
+   64  export PATH="~/.config/composer/vendor/bin:$PATH"
+   65  clear
+   66  source ~/.bashrc
+   67  clear
+   68  laravel new starter
+   69  clear
+   70  sudo chmod a+rwx /
+   71  laravel new starter
+   72  clear
+   73  sudo apt install mysql-server
+   74  cd Projects
+   75  mkdir ball
+   76  cd ball
+   77  clear
+   78  ls
+   79  touch index.html
+   80  clear
+   81  laravel new notes
+   82  echo 'export PATH="$HOME/.composer/vendor/bin:$PATH"' >> ~/.bashrc
+   83  clear
+   84  laravel new notepad
+   85  composer global require "laravel/installer"
+   86  gedit ~/.bashrc
+   87  source ~/.bashrc
+   88  clear
+   89  ls
+   90  mkdir Projects
+   91  cd Projects
+   92  laravel new notepad
+   93  sudo laravel new notepad
+   94  composer global require "laravel/installer"
+   95  laravel
+   96  clear
+   97  composer create-project --prefer-dist laravel/laravel notepad
+   98  clear
+   99  ls
+  100  dpkg --configure -a
+  101  sudo dpkg --configure -a
+  102  clear
+  103  curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+  104  sudo apt-get install nodejs
+  105  node -v
+  106  npm -v
+  107  clear
+  108  php -v
+  109  clear
+  110  touch database.sqlite
+  111  clear
+  112  cd ..
+  113  clear
+  114  php artisan make:controller HomeController
+  115  clear
+  116  cd resources/views
+  117  touch index.blade.php
+  118  clear
+  119  php artisan serve
+  120  git -v
+  121  clear
+  122  git
+  123  clear
+  124  git --version
+  125  clear
+  126  ls -a
+  127  ls
+  128  clear
+  129  cd Umuzi
+  130  clear
+  131  ls -a
+  132  cd .
+  133  ls
+  134  clear
+  135  ls
+  136  mkdir github
+  137  cd github
+  138  clear
+  139  git clone https://github.com/badb33/names.git
+  140  ls
+  141  cd names
+  142  clear
+  143  ls
+  144  nano README.md
+  145  clear
+  146  touch names.html
+  147  clear
+  148  ls
+  149  git add
+  150  clear
+  151  git add --all
+  152  git commit -m 'Add message file'
+  153  git config --global user.name "badb33"
+  154  git commit -m 'Add message file'
+  155  clear
+  156  git commit -m 'Adding files'
+  157  git config user.email "lebohang0824@gmail.com"
+  158  git commit -m 'Adding files'
+  159  clear
+  160  git push
+  161  clear
+  162  git add index.html
+  163  clear
+  164  git add
+  165  clear
+  166  git add .
+  167  git commit -m 'Added my favourite names'
+  168  git log
+  169  clear
+  170  git push
+  171  cleare
+  172  clear
+  173  git branches -a
+  174  clear
+  175  git branch -a
+  176  git branch
+  177  clear
+  178  git branch enemies
+  179  git checkout enemies
+  180  git branch
+  181  clear
+  182  git git push -u origin 
+  183  git --help
+  184  clear
+  185  git branch
+  186  git push origin
+  187  git push origin enemies 
+  188  git clear
+  189  clear
+  190  git pull enemies
+  191  git fetch origin enemies
+  192  git add .
+  193  git commit -m 'Added new names'
+  194  git push
+  195  git origin push
+  196  git push origin enemies
+  197  clear
+  198  git checkout master
+  199  git merge
+  200  git branch enemies
+  201  git checkout enemies
+  202  git merge
+  203  git merge origin
+  204  git merge origin master
+  205  clear
+  206  git checkout master
+  207  git merge origin enemies
+  208  clear
+  209  git push
+  210  clear
+  211  ls
+  212  clear
+  213  touch family.html
+  214  clear
+  215  nano family.index
+  216  clear
+  217  ls
+  218  clear
+  219  git add .
+  220  git commit -m 'My family members'
+  221  git pushy origin
+  222  clear
+  223  git push origin
+  224  clear
+  225  ls
+  226  clear
+  227  cd..
+  228  mkdir
+  229  clear
+  230  mkdir cars
+  231  cd cars
+  232  clear
+  233  ls
+  234  clear
+  235  touch README.md
+  236  nano README.md
+  237  clear
+  238  ls
+  239  clear
+  240  touch cars.html
+  241  clear
+  242  nan cars.html
+  243  nano cars.html
+  244  clear
+  245  ls
+  246  clear
+  247  git push origin
+  248  clear
+  249  git add .
+  250  clear
+  251  git branch
+  252  clear
+  253  git branch master
+  254  clear
+  255  ls
+  256  rm README.md
+  257  ls
+  258  clear
+  259  git add .
+  260  clear
+  261  cd ..
+  262  clear
+  263  ls
+  264  git add .
+  265  git commit -m 'Initialization'
+  266  git config --global user.email 'lebohang0824@gmail.com'
+  267  git commit -m 'Initialization'
+  268  git push
+  269  clear
+  270  ls
+  271  rm -R
+  272  rm -R /
+  273  ls
+  274  clear
+  275  rm -R cars
+  276  clear
+  277  mkdir
+  278  clear
+  279  mkdir cars
+  280  cd cars
+  281  git init
+  282  git config user.name "badb33"
+  283  clear
+  284  git add .
+  285  git commit
+  286  git push
+  287  git push cars
+  288  git push origin cars
+  289  clear
+  290  git push origins cars
+  291  git push origin cars
+  292  clear
+  293  git push cars
+  294  git push cars master
+  295  git push --set-upstream cars master
+  296  clear
+  297  ls
+  298  clear
+  299  git push cars
+  300  git push --set-upstream cars master
+  301  clear
+  302  git clone http:://github.com/badb33/cars
+  303  git clone http:://github.com/badb33/cars.git
+  304  git clone https:://github.com/badb33/cars.git
+  305  clear
+  306  git clone https://github.com/badb33/cars.git
+  307  ls
+  308  clear
+  309  cd cars
+  310  git config user.name "badb33"
+  311  clear
+  312  cd cars
+  313  clear
+  314  ls
+  315  clear
+  316  touch cars.html
+  317  nano cars.html
+  318  clear
+  319  ls
+  320  clear
+  321  git add cars.html
+  322  git commit -m 'File of list of my cars'
+  323  git push cars.html
+  324  clear
+  325  git push
+  326  clear
+  327  nano cars.html
+  328  clear
+  329  git add
+  330  clear
+  331  git add .
+  332  git commit
+  333  clear
+  334  git commit -m 'New cars i love'
+  335  git push
+  336  cle
+  337  clear
+  338  ls
+  339  nano cars.html
+  340  clear
+  341  git add .
+  342  git commit -m 'New cars i love'
+  343  git push
+  344  clear
+  345  nano cars.html
+  346  clear
+  347  git add .
+  348  git commit -m 'I forgot to add opel opc'
+  349  git push
+  350  clear
+  351  git branch classic
+  352  git checkout classic
+  353  nano cars.html
+  354  clear
+  355  nano cars.html
+  356  clear
+  357  ls
+  358  git pull
+  359  clear
+  360  git pull origin
+  361  git pull origin master
+  362  clear
+  363  nano cars.html
+  364  git add .
+  365  git branch
+  366  clear
+  367  git commit -m 'Classic cars'
+  368  git push
+  369  git push origin
+  370  git push origin classic
+  371  clear
+  372  git merge origin classic
+  373  clear
+  374  git checkout master
+  375  git status
+  376  clear
+  377  git log
+  378  clear
+  379  ls
+  380  git checkout classic
+  381  clear
+  382  git status
+  383  clear
+  384  git log
+  385  clear
+  386  git checkout master
+  387  clear
+  388  git merge origin classic
+  389  git commit -m 'Adding my classic cars'
+  390  git push
+  391  clear
+  392  git merge origin classic
+  393  clear
+  394  sudo apt install xserver-xorg-input-synaptics
+  395  clear
+  396  sudo mv /usr/share/X11/xorg.conf.d/90-libinput.conf /usr/share/X11/xorg.conf.d/45-libinput.conf
+  397  clear
+  398  sudo reboot
+  399  sudo apt update
+  400  clear
+  401  sudo apt install -y mongodb
+  402  clear
+  403  sudo systemctl status mongodb
+  404  clear
+  405  sude systemctl stop mongodb
+  406  sudo systemctl stop mongodb
+  407  clear
+  408  sudo systemctl status mongodb
+  409  clear
+  410  ls
+  411  cd Projects
+  412  clear
+  413  ls
+  414  composer create-project --prefer-dist laravel/laravel necaglobal
+  415  cd necaglobal
+  416  ls
+  417  clear
+  418  nano composer.json
+  419  clear
+  420  ls
+  421  clear
+  422  composer list -i
+  423  clear
+  424  composer show -i
+  425  clear
+  426  php artisan tiner
+  427  clear
+  428  php artisan tinker
+  429  clear
+  430  php artisan tinker
+  431  clear
+  432  composer require guzzlehttp/guzzle
+  433  clear
+  434  composer show -i
+  435  clear
+  436  composer require sven/artisan-view --dev
+  437  clear
+  438  npm install
+  439  clear
+  440  shutdown now
+  441  mkdir layouts
+  442  mkdir include
+  443  mkdir components
+  444  widgets
+  445  clear
+  446  mkdir widgets
+  447  mkdir forms
+  448  clear
+  449  mkdir payfast
+  450  clear
+  451  exit
+  452  ls
+  453  cd Umuzi
+  454  ls
+  455  clear
+  456  ls
+  457  cd github
+  458  ls
+  459  rmdir cars
+  460  rmdir cars -R
+  461  rmdir cars -r
+  462  clear
+  463  rmdir -R cars
+  464  clear
+  465  rm cars -R
+  466  clear
+  467  rm -R cars
+  468  clear
+  469  ls
+  470  clear
+  471  sude rmdir cars
+  472  clear
+  473  sudo rmdir cars
+  474  cler
+  475  clear
+  476  sudo rmdir -R cars
+  477  clear
+  478  sudo rmdir -r cars
+  479  clear
+  480  sudo rmdir
+  481  clear
+  482  sudo rmdir cars
+  483  sudo rmdir cars -R
+  484  sudo rmdir cars -r
+  485  clear
+  486  sudo rm cars -r
+  487  clear
+  488  ls
+  489  cd ..
+  490  clear
+  491  ls
+  492  clear
+  493  locate README.md
+  494  clear
+  495  ls
+  496  nano challenges.txt
+  497  clear
+  498  locate README.md > results.txt
+  499  nano results.txt
+  500  clear
+  501  rm results.txt
+  502  clear
+  503  ls
+  504  nano challenges.txt
+  505  clear
+  506  ls
+  507  cd github
+  508  git status
+  509  clear
+  510  cd ..
+  511  rm github
+  512  clear
+  513  rmdir github
+  514  clear
+  515  rmdir -R github
+  516  clear
+  517  sudo rm -R github
+  518  clear
+  519  ls
+  520  clear
+  521  mkdir repos
+  522  cd repos
+  523  mkdir linux
+  524  ls
+  525  cd linuz
+  526  cd linux
+  527  clear
+  528  git init
+  529  clear
+  530  ls
+  531  touch commands.txt
+  532  git status
+  533  clear
+  534  git add .
+  535  git status
+  536  clear
+  537  git commit -m 'Adding linux challenges'
+  538  ls
+  539  git commit -m 'Adding linux commands'
+  540  clear
+  541  git status
+  542  clear
+  543  git branch master
+  544  git remote add origin https://github.com/brutalveg/commands.git
+  545  git push origin master
+  546  git pull
+  547  git pull origin master
+  548  ls
+  549  clear
+  550  git fetch https://github.com/brutalveg/commands.git
+  551  ls
+  552  clear
+  553  git push
+  554  git push .
+  555  ls
+  556  cd ..
+  557  ls
+  558  sudo rm -r linux
+  559  clear
+  560  ls
+  561  clear
+  562  git pull https://github.com/brutalveg/commands.git
+  563  clear
+  564  git fetch https://github.com/brutalveg/commands.git
+  565  clear
+  566  git clone https://github.com/brutalveg/commands.git
+  567  ls
+  568  cd commands
+  569  ls
+  570  clear
+  571  touch linux.txt
+  572  nano linux.txt
+  573  clear
+  574  git add .
+  575  git commit -m 'Add linux command'
+  576  clear
+  577  git push
+  578  clear
+  579  ls
+  580  clear
+  581  git branch branch v2-commands
+  582  clear
+  583  git branch git
+  584  git checkout git
+  585  clear
+  586  ls
+  587  nano linux.txt
+  588  clear
+  589  git status
+  590  clear
+  591  git add .
+  592  git commit -m 'Adding linux git commands'
+  593  git push origin
+  594  git push
+  595  clear
+  596  git push origin git
+  597  clear
+  598  git checkout master
+  599  nano linux.txt
+  600  clear
+  601  git pull git
+  602  clear
+  603  git pull https://github.com/brutalveg/commands.git
+  604  nano linux.txt
+  605  clear
+  606  git branches
+  607  git branche
+  608  git branch
+  609  git checkout git
+  610  clear
+  611  nano linux.txt
+  612  clear
+  613  git add .
+  614  git commit -m 'Added merge command'
+  615  git push
+  616  clear
+  617  git push origin git
+  618  clear
+  619  git push origin git
+  620  clear
+  621  git merge
+  622  clear
+  623  git checkout
+  624  git checkout master
+  625  clear
+  626  git merge git
+  627  clear
+  628  git merge -m 'Modified git commands'
+  629  clear
+  630  git add .
+  631  git commit -m 'Added git commands'
+  632  git merge
+  633  git merge git
+  634  clear
+  635  ls
+  636  nano linux.txt
+  637  clear
+  638  git merge git
+  639  git push
+  640  clear
+  641  git checkout git
+  642  clear
+  643  nano linux.txt
+  644  clear
+  645  git add .
+  646  git commit -m 'Add revert command'
+  647  git push origin git
+  648  clear
+  649  checkout master
+  650  clear
+  651  git checkout master
+  652  clear
+  653  git branch
+  654  clear
+  655  git merge
+  656  clear
+  657  git commit git
+  658  clear
+  659  git merge git
+  660  clear
+  661  git commit -m 'Update linux revert command'
+  662  gigt status
+  663  git status
+  664  clear
+  665  git push
+  666  clear
+  667  git checkout git
+  668  git status
+  669  git push origin master
+  670  clear
+  671  git push origin git
+  672  clear
+  673  git add .
+  674  git status
+  675  git commit -m 'Added'
+  676  git push origin git
+  677  clear
+  678  git checkout master
+  679  clear
+  680  git branch
+  681  clear
+  682  cd ..
+  683  clear
+  684  ls
+  685  cd ..
+  686  ls
+  687  nano challenges.txt
+  688  clear
+  689  ls
+  690  cd..
+  691  cd
+  692  clear
+  693  cd Projects
+  694  cd necaglobal
+  695  php artisan serve
+  696  clear
+  697  sudo apt install terminator
+  698  exit
+  699  php aritsan make:controller DashboardController
+  700  clear
+  701  php artisan make:controller DashboardController
+  702  clear
+  703  php artisan make:controller DashboardController
+  704  clear
+  705  exit
+  706  cd Projects/necaglobal
+  707  php artisan serve
+  708  exit
+  709  clear
+  710  exit
+  711  cd Projects/necaglobal
+  712  clear
+  713  php artisan make:controller DashboardController
+  714  clear
+  715  ls
+  716  cd app
+  717  mkdir Helpers
+  718  cd Helpers
+  719  mkdir Services
+  720  clear
+  721  touch helpers.php
+  722  clear
+  723  Generator.php
+  724  clear
+  725  touch Generator.php
+  726  clear
+  727  cd ..
+  728  ls
+  729  cd Helpers
+  730  ls
+  731  cd Services
+  732  Generator.php
+  733  touch Generators.php
+  734  clear
+  735  ls
+  736  clear
+  737  ls
+  738  cd ..
+  739  ls
+  740  rm Generator.php
+  741  clear
+  742  ls
+  743  cd Services
+  744  ls
+  745  rm Generators.php
+  746  clear
+  747  ls
+  748  touch Generator.php
+  749  clear
+  750  ls
+  751  clear
+  752  ls
+  753  clear
+  754  cd ..
+  755  l
+  756  clear
+  757  ls
+  758  clear
+  759  cd ..
+  760  ls
+  761  cd ..
+  762  ls
+  763  clear
+  764  composer dump-autoload
+  765  clear
+  766  composer dump-autoload
+  767  cleaer
+  768  clear
+  769  composer dump-autoload
+  770  clear
+  771  composer dump-autoload
+  772  clear
+  773  composer dump-autoload
+  774  apt uninstall terminator
+  775  apt uninstal terminator
+  776  clear
+  777  sudo apt remove terminator
+  778  clear
+  779  cd Projects/necaglobal
+  780  php artisan serve
+  781  cd Projects/necaglobal
+  782  php artisan serve
+  783  clear
+  784  php artisan make:view include\basket-modal
+  785  clear
+  786  php artisan serve
+  787  php artisan make:view include/basket-modal
+  788  clear
+  789  php artisan serve
+  790  clear
+  791  composer dump-autoload
+  792  clear
+  793  php artisan cache:clear
+  794  clear
+  795  php artisan serve
+  796  clear
+  797  git clone https://github.com/badb33/snake-game.git
+  798  cd snake-game
+  799  clear
+  800  ls
+  801  clear
+  802  mkdir js
+  803  touch index.html
+  804  clear
+  805  touch js/script.js
+  806  cd js
+  807  ls
+  808  clear
+  809  git clone https://github.com/badb33/git-exercises.git
+  810  ls
+  811  cd git-exercises
+  812  clear
+  813  ls
+  814  clear
+  815  cd ..
+  816  ls
+  817  clear
+  818  ls
+  819  sudo rm challenges.txt
+  820  ls
+  821  clear
+  822  ls
+  823  rm challenges.txt
+  824  sudo rm challenges.txt
+  825  clear
+  826  mkdir git-basic-exercises
+  827  cd git-basic-exercises
+  828  clear
+  829  ls -a
+  830  git init
+  831  ls -a
+  832  gigt status
+  833  git status
+  834  touch touch README.md
+  835  ls -a
+  836  git status
+  837  clear
+  838  ls
+  839  cd ..
+  840  sudo -r git-basic-exercises
+  841  sudo rm -R git-basic-exercises
+  842  clear
+  843  mkdir git-basic-exercises
+  844  cd git-basic-exercises
+  845  git init
+  846  ls -a
+  847  git log
+  848  touch README.md
+  849  ls -a
+  850  git status
+  851  clear
+  852  git log
+  853  git add
+  854  git add .
+  855  clear
+  856  git status
+  857  git reset
+  858  git status
+  859  git add
+  860  git commit -m 'initial commit'
+  861  clear
+  862  git add .
+  863  git commit -m 'initial commit'
+  864  clear
+  865  git log
+  866  nano README.md
+  867  cat README.md
+  868  git statsds
+  869  clear
+  870  git status
+  871  git add .
+  872  git commit -m "second commit"
+  873  nano README.md
+  874  clear
+  875  git status
+  876  clear
+  877  git add .
+  878  git commit -m "third commit"
+  879  clear
+  880  git log
+  881  clear
+  882  git log
+  883  clear
+  884  git log
+  885  git checkout e34272ccfdd41536dc0a36491d2c634a3d133032
+  886  clear
+  887  cat README.md
+  888  clear
+  889  git checkout master
+  890  clear
+  891  git README.md
+  892  clear
+  893  cat README.md
+  894  clear
+  895  git branch
+  896  git branch milkshake-flavours
+  897  git branch
+  898  git checkout milkshake-flavours
+  899  nano milkshakes.md
+  900  git status
+  901  git add .
+  902  git commit -m "added initial flavours"
+  903  git log
+  904  clear
+  905  git checkout master
+  906  clear
+  907  git history
+  908  clear
+  909  git branch history
+  910  git checkout history
+  911  git log
+  912  history > history.txt
+  913  clear
+  914  git add .
+  915  git commit -m "added history"
+  916  git log
+  917  clear
+  918  ls
+  919  nano README.m
+  920  nano README.me
+  921  nano README.md
+  922  git add .
+  923  git commit -m "random readme changes"
+  924  clear
+  925  ls
+  926  clear
+  927  git checkout history
+  928  cat README.md
+  929  clear
+  930  cd ..
+  931  clear
+  932  sudo rm -r git-basic-exercises
+  933  clear
+  934  mkdir git-basic-exercises
+  935  cd git-basic-exercises
+  936  clear
+  937  git conofig --global user.name 'lebohang0824'
+  938  git config --global user.name 'lebohang0824'
+  939  git config --global --list
+  940  clear
+  941  ls -a
+  942  clear
+  943  git init
+  944  ls -a
+  945  clear
+  946  git status
+  947  clear
+  948  git log
+  949  clear
+  950  touch README.md
+  951  git status
+  952  clear
+  953  git log
+  954  git add .
+  955  git status
+  956  clear
+  957  git commit -m "initial commit"
+  958  git log
+  959  clear
+  960  git status
+  961  clear
+  962  nano README.md
+  963  cat README.md
+  964  clear
+  965  git stats
+  966  clear
+  967  git status
+  968  clear
+  969  git add .
+  970  git commit -m "second commit"
+  971  clear
+  972  git log
+  973  clear
+  974  nano README.md
+  975  clear
+  976  git status
+  977  clear
+  978  git add .
+  979  git status
+  980  clear
+  981  git log
+  982  clear
+  983  git commit -m "third commit"
+  984  clear
+  985  git log
+  986  clear
+  987  git log
+  988  clear
+  989  git checkout0021a82254460a2cb1de58734bc88e6fc36a550f
+  990  cat README.md
+  991  clear
+  992  git checkout master
+  993  clear
+  994  cat README.md
+  995  clear
+  996  git branch
+  997  git branch milkshake-flavours
+  998  clear
+  999  git branch
+ 1000  clear
+ 1001  git branch
+ 1002  clear
+ 1003  git checkout milkshake-flavours
+ 1004  clear
+ 1005  git branch
+ 1006  clear
+ 1007  nano milkshakes.md
+ 1008  git status
+ 1009  clear
+ 1010  git add .
+ 1011  git commit -m "added initial flavours"
+ 1012  clear
+ 1013  git status
+ 1014  git log
+ 1015  clear
+ 1016  git checkout master
+ 1017  git log
+ 1018  clear
+ 1019  git branch history
+ 1020  git log
+ 1021  clear
+ 1022  git checkout history
+ 1023  git status
+ 1024  clear
+ 1025  git log
+ 1026  clear
+ 1027  history > history.txt
